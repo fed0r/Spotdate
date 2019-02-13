@@ -1,0 +1,12 @@
+C:\Users\Althir\source\repos\Spotdate\Spotdate\bin\Debug\Spotdate.exe.config
+C:\Users\Althir\source\repos\Spotdate\Spotdate\bin\Debug\Spotdate.exe
+C:\Users\Althir\source\repos\Spotdate\Spotdate\bin\Debug\Spotdate.pdb
+C:\Users\Althir\source\repos\Spotdate\Spotdate\bin\Debug\Spotdate.xml
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.vbprojAssemblyReference.cache
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.Form1.resources
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.Resources.resources
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.vbproj.GenerateResource.cache
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.vbproj.CoreCompileInputs.cache
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.exe
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.xml
+C:\Users\Althir\source\repos\Spotdate\Spotdate\obj\Debug\Spotdate.pdb
