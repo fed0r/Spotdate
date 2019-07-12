@@ -1,4 +1,5 @@
 # Spotdate
 
-
-Software for meme bois
+<b>Features</b>
+- Easily block Spotify updates
+- Memes included
